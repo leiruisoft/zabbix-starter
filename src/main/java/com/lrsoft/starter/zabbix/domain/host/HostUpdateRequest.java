@@ -2,8 +2,6 @@ package com.lrsoft.starter.zabbix.domain.host;
 
 
 import com.lrsoft.starter.zabbix.core.ZabbixRequest;
-import com.arcvideo.aoms.starter.zabbix.domain.base.*;
-import com.arcvideo.starter.zabbix.domain.base.*;
 import com.lrsoft.starter.zabbix.domain.base.*;
 
 import java.util.ArrayList;
