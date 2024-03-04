@@ -20,8 +20,8 @@
   此时账号登录之后在数据库对应的用户表中即可获取到永不过期的token（即该auth）
 
             zabbix:
-              url: http://172.17.22.111/zabbix/api_jsonrpc.php
-              auth: dd871337c5638a8ed4369d032b2cbf9c
+              url: http://***/zabbix/api_jsonrpc.php
+              auth: ****
 
 3.  代码
 
