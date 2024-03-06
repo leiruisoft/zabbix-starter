@@ -8,7 +8,7 @@
 1.  pom.xml引入依赖
 
             <dependency>
-                <groupId>com.arcvideo</groupId>
+                <groupId>com.lrsoft</groupId>
                 <artifactId>zabbix-starter</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>

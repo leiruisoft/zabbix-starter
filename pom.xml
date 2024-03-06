@@ -8,7 +8,7 @@
         <version>2.2.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.arcvideo</groupId>
+    <groupId>com.lrsoft</groupId>
     <artifactId>zabbix-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>zabbix-starter</name>
